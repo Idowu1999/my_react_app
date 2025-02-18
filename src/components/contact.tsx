@@ -22,7 +22,7 @@ function contact() {
       <div className="right">
      
 <div className="mb-3">
-  <label for="" class="form-label">Email</label>
+  <label  className="form-label">Email</label>
   <input
     type="email"
     className="form-control"
@@ -36,7 +36,7 @@ function contact() {
 </div>
 
 
-<textarea name="" id="" cols="30" placeholder="message"></textarea>
+<textarea name="" id=""  placeholder="message"></textarea>
         
 
   <div className="d-flex justify-content-center align-items-center">

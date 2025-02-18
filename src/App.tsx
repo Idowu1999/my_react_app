@@ -10,7 +10,7 @@ import Hero_part1 from './components/Hero_part1';
 import Image_hero from "./assets/image/web-design.gif"
 import Registration from "./components/Registration"
 import Profile from "./components/AboutMe"
-import Footer from './components/footer';
+import Footer from './components/Footer';
 // import Navigation from "./components/header"
 const Header_nav = () => {
   return (
