@@ -1,0 +1,30 @@
+/* Hero Section Styles */
+.hero-container {
+    /* background-color: #A100FF; */
+    min-height:70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .hero-content {
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .highlight {
+    color: #FF007F;
+  }
+  
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid #6DDAFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+  }
+  

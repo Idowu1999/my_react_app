@@ -1,0 +1,30 @@
+/* 
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #4A00E0, #FF00FF);
+} */
+.login-container {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+.btn-custom {
+    background: linear-gradient(135deg, #4A00E0, #FF00FF);
+    color: white;
+    border: none;
+}
+.btn-custom:hover {
+    opacity: 0.9;
+}
+.social-icons a {
+    margin: 0 10px;
+    font-size: 20px;
+    color: #4A00E0;
+}
